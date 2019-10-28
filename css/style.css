@@ -1,9 +1,12 @@
 h1 {
     color: palevioletred;
-    font-style: italic
+    font-style: italic;
+    font-size: 2.5rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 body {
+    font-size: 16px;
     border: 1px solid aquamarine;
 }
 
