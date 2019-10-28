@@ -10,3 +10,7 @@ body {
     border: 1px solid aquamarine;
 }
 
+
+img:hover {
+    opacity: 0.5;
+}
