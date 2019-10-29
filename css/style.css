@@ -7,7 +7,6 @@ h1 {
 
 body {
     font-size: 16px;
-    border: 1px solid aquamarine;
 }
 
 body:hover {
@@ -50,5 +49,11 @@ img:hover {
     font-style: italic;
     font-weight: bold;
     margin: 210px 210px 120px 120px;
+}
+
+lable {
+    font-size: 22px;
+    color: palevioletred;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
