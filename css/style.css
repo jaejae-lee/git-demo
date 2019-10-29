@@ -10,7 +10,7 @@ body {
 }
 
 body:hover {
-    background-color: aquamarine;
+    background-color: aqua;
 }
 
 nav li{
@@ -53,7 +53,7 @@ img:hover {
 
 lable {
     font-size: 22px;
-    color: palevioletred;
+    color:black;
     font-family: Arial, Helvetica, sans-serif;
 }
 
